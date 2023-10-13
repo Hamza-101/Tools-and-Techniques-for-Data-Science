@@ -1,1 +1,1 @@
-# Tools-and-Techniques-for-Data-Science
+# Tools and Techniques for Data Science
